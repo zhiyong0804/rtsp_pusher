@@ -2,7 +2,7 @@
  * @file PusherHandler.h
  * @brief  1.0
  *
- * @author K.D, kofera.deng@gmail.com
+ * @author lizhiyong0804319@gmail.com
  * @version 1.0
  * @date 2015-12-01
  */
